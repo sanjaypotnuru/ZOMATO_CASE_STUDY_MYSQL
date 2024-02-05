@@ -4,6 +4,7 @@
           Solve day-to-day complex business problems of online food delivery business using MYSQL.
 
 **ABOUT DATA AND THE TABLES:**
+
   <img width="251" alt="image" src="https://github.com/sanjaypotnuru/ZOMATO_CASE_STUDY_MYSQL/assets/105508197/e9dfe176-813d-490f-8229-c473abfb0125">
   <img width="252" alt="image" src="https://github.com/sanjaypotnuru/ZOMATO_CASE_STUDY_MYSQL/assets/105508197/e05bc058-1747-4bd4-af18-3c502f8285d8">
   <img width="353" alt="image" src="https://github.com/sanjaypotnuru/ZOMATO_CASE_STUDY_MYSQL/assets/105508197/0ef080af-1ec7-4192-85b4-e226ce8f4b90">
@@ -13,7 +14,8 @@
 <img width="307" alt="image" src="https://github.com/sanjaypotnuru/ZOMATO_CASE_STUDY_MYSQL/assets/105508197/c2e02038-5357-47b2-bd82-655e6e463c93">
 
 **ZOMATO CASE STUDY:-**
-Q1) Find customers who have never ordered
+
+Q1) Find customers who have never ordered "\n"
 <img width="267" alt="image" src="https://github.com/sanjaypotnuru/ZOMATO_CASE_STUDY_MYSQL/assets/105508197/2ce2f8bf-2f90-4121-8f8d-1a6f6b828dfc
 <img width="70" alt="image" src="https://github.com/sanjaypotnuru/ZOMATO_CASE_STUDY_MYSQL/assets/105508197/58470a57-9879-4139-8880-8cc3c2bde3e0">
 
