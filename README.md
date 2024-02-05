@@ -6,17 +6,25 @@
 **ABOUT DATA AND THE TABLES:**
 
   <img width="251" alt="image" src="https://github.com/sanjaypotnuru/ZOMATO_CASE_STUDY_MYSQL/assets/105508197/e9dfe176-813d-490f-8229-c473abfb0125">
+  
   <img width="252" alt="image" src="https://github.com/sanjaypotnuru/ZOMATO_CASE_STUDY_MYSQL/assets/105508197/e05bc058-1747-4bd4-af18-3c502f8285d8">
+  
   <img width="353" alt="image" src="https://github.com/sanjaypotnuru/ZOMATO_CASE_STUDY_MYSQL/assets/105508197/0ef080af-1ec7-4192-85b4-e226ce8f4b90">
+  
 <img width="314" alt="image" src="https://github.com/sanjaypotnuru/ZOMATO_CASE_STUDY_MYSQL/assets/105508197/d709295d-98dc-4f91-99e2-e0c6025234aa">
+
 <img width="317" alt="image" src="https://github.com/sanjaypotnuru/ZOMATO_CASE_STUDY_MYSQL/assets/105508197/64e6dae0-5cf4-4967-ab3b-795734947408">
+
 <img width="314" alt="image" src="https://github.com/sanjaypotnuru/ZOMATO_CASE_STUDY_MYSQL/assets/105508197/5a9b4f02-064a-47ad-b2da-a8d9a0934fe1">
+
 <img width="307" alt="image" src="https://github.com/sanjaypotnuru/ZOMATO_CASE_STUDY_MYSQL/assets/105508197/c2e02038-5357-47b2-bd82-655e6e463c93">
 
 **ZOMATO CASE STUDY:-**
 
-Q1) Find customers who have never ordered "\n"
-<img width="267" alt="image" src="https://github.com/sanjaypotnuru/ZOMATO_CASE_STUDY_MYSQL/assets/105508197/2ce2f8bf-2f90-4121-8f8d-1a6f6b828dfc
+Q1) Find customers who have never ordered 
+
+<img width="268" alt="image" src="https://github.com/sanjaypotnuru/ZOMATO_CASE_STUDY_MYSQL/assets/105508197/faeb719d-1ae3-4f88-a59d-ae6d7e2468ae">
+
 <img width="70" alt="image" src="https://github.com/sanjaypotnuru/ZOMATO_CASE_STUDY_MYSQL/assets/105508197/58470a57-9879-4139-8880-8cc3c2bde3e0">
 
 Q2) AVERAGE PRICE of dish 
